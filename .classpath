@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_171"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/elasticsearch-5.6.0.jar" sourcepath="C:/Users/GCQ/.m2/repository/org/elasticsearch/elasticsearch/5.6.0/elasticsearch-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/elasticsearch-rest-client-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/elasticsearch-rest-high-level-client-5.6.0.jar" sourcepath="C:/Users/GCQ/.m2/repository/org/elasticsearch/client/elasticsearch-rest-high-level-client/5.6.0/elasticsearch-rest-high-level-client-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/fastjson-1.2.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/httpasyncclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/httpclient-4.5.2.jar" sourcepath="C:/Users/GCQ/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/httpcore-nio-4.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/jackson-core-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/joda-time-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/jts-core-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/log4j-api-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-analyzers-common-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-backward-codecs-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-core-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-grouping-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-highlighter-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-join-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-memory-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-misc-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-queries-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-queryparser-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-sandbox-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-spatial3d-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-spatial-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-spatial-extras-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/lucene-suggest-6.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GCQ/eclipse-workspace/ElasticSearch/lib/spatial4j-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/java-uuid-generator-3.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
